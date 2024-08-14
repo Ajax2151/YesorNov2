@@ -12,3 +12,4 @@ C:\Users\ajack\CSharp\CSharpProjects\SoloProjects\YesorNov2\obj\Debug\net8.0\ref
 C:\Users\ajack\CSharp\CSharpProjects\SoloProjects\YesorNov2\obj\Debug\net8.0\YesorNov2.pdb
 C:\Users\ajack\CSharp\CSharpProjects\SoloProjects\YesorNov2\obj\Debug\net8.0\YesorNov2.genruntimeconfig.cache
 C:\Users\ajack\CSharp\CSharpProjects\SoloProjects\YesorNov2\obj\Debug\net8.0\ref\YesorNov2.dll
+C:\Users\ajack\CSharp\CSharpProjects\SoloProjects\YesorNov2\obj\Debug\net8.0\YesorNov2.sourcelink.json

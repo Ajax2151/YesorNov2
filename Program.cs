@@ -1,6 +1,4 @@
-﻿Random samBot = new Random();
-
-string playerGuess = " ";
+﻿string playerGuess = " ";
 string playerAnswer = " ";
 int playerScore = 0;
 int questionCount = 0;
@@ -24,8 +22,10 @@ while (gameEnd != true)
     }
     else
     {
+        Random samBot = new Random();
         string samAnswer = " ";
         int samRandom = samBot.Next(2);
+
         questionCount++;
 
         if (samRandom == 1)
