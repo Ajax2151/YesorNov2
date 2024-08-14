@@ -1,0 +1,14 @@
+C:\Users\ajack\CSharp\CSharpProjects\SoloProjects\YesorNov2\obj\Debug\net8.0\YesorNov2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajack\CSharp\CSharpProjects\SoloProjects\YesorNov2\obj\Debug\net8.0\YesorNov2.AssemblyInfoInputs.cache
+C:\Users\ajack\CSharp\CSharpProjects\SoloProjects\YesorNov2\obj\Debug\net8.0\YesorNov2.AssemblyInfo.cs
+C:\Users\ajack\CSharp\CSharpProjects\SoloProjects\YesorNov2\obj\Debug\net8.0\YesorNov2.csproj.CoreCompileInputs.cache
+C:\Users\ajack\CSharp\CSharpProjects\SoloProjects\YesorNov2\bin\Debug\net8.0\YesorNov2.exe
+C:\Users\ajack\CSharp\CSharpProjects\SoloProjects\YesorNov2\bin\Debug\net8.0\YesorNov2.deps.json
+C:\Users\ajack\CSharp\CSharpProjects\SoloProjects\YesorNov2\bin\Debug\net8.0\YesorNov2.runtimeconfig.json
+C:\Users\ajack\CSharp\CSharpProjects\SoloProjects\YesorNov2\bin\Debug\net8.0\YesorNov2.dll
+C:\Users\ajack\CSharp\CSharpProjects\SoloProjects\YesorNov2\bin\Debug\net8.0\YesorNov2.pdb
+C:\Users\ajack\CSharp\CSharpProjects\SoloProjects\YesorNov2\obj\Debug\net8.0\YesorNov2.dll
+C:\Users\ajack\CSharp\CSharpProjects\SoloProjects\YesorNov2\obj\Debug\net8.0\refint\YesorNov2.dll
+C:\Users\ajack\CSharp\CSharpProjects\SoloProjects\YesorNov2\obj\Debug\net8.0\YesorNov2.pdb
+C:\Users\ajack\CSharp\CSharpProjects\SoloProjects\YesorNov2\obj\Debug\net8.0\YesorNov2.genruntimeconfig.cache
+C:\Users\ajack\CSharp\CSharpProjects\SoloProjects\YesorNov2\obj\Debug\net8.0\ref\YesorNov2.dll
