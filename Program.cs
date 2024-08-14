@@ -3,6 +3,7 @@
 string playerGuess = " ";
 string playerAnswer = " ";
 int playerScore = 0;
+int questionCount = 0;
 
 string? readResult;
 bool gameEnd = false;
@@ -25,6 +26,7 @@ while (gameEnd != true)
     {
         string samAnswer = " ";
         int samRandom = samBot.Next(2);
+        questionCount++;
 
         if (samRandom == 1)
             samAnswer = "Yes";
@@ -43,12 +45,27 @@ while (gameEnd != true)
         if (samAnswer == playerAnswer)
         {
             playerScore++;
+
+            Console.WriteLine();
             Console.WriteLine($"The answer is {samAnswer}. That is a point for you, player, bringing your total to {playerScore}.");
+            Console.WriteLine($"Your current score is: {playerScore} points.");
+            Console.WriteLine();
         }
         else
         {
+            Console.WriteLine();
             Console.WriteLine($"Ooh, sorry, player. The correct answer was {samAnswer}. No points for you this round.");
+            Console.WriteLine($"Your current score is: {playerScore} points.");
+            Console.WriteLine();
         }
 
+        if (playerScore >= 5 || questionCount >= 5)
+        {  
+            Console.WriteLine();
+            Console.WriteLine($"And with that, players, that is our game! Your final score is {playerScore} points.");
+            Console.WriteLine();
+
+            gameEnd = true;
+        }
     }
 }
